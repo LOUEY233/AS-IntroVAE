@@ -21,7 +21,7 @@ Please check main.py for detailed information.
 
 # Contact
 Please reach lucha@kean.edu for further questions.\
-You can also open an issue (prefered) or a pull request in this Github repository.\
+You can also open an issue (prefered) or a pull request in this Github repository.
 
 ## BibTeX
 Please cite our paper if you find this repository helpful.

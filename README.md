@@ -17,6 +17,9 @@ Run the following script in terminal
 sh train.sh
 ```
 
+# Model Workflow
+![workflow](AS-workflow.png)
+
 ## Hyperparameters
 ```python
 parser = argparse.ArgumentParser(description="train Soft-IntroVAE")
